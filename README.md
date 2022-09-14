@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mozzer2310 - Sam Morris
-- 👀 I’m interested in AI and machine learning, as well as data science.
-- 🌱 I’m currently in my second year at The University of Manchester, studying Computer Science.
-- 💞️ I’m looking for a Summer Internship for 2022 as well as a placement for 2023.
+- 👀 I’m interested in AI and machine learning, as well as visual computing.
+- 🌱 I’m currently in my third year at The University of Manchester, studying Computer Science.
+- 💞️ I’m looking for  a placement for 2023.
 - 📫 How to reach me https://www.linkedin.com/in/samuel-morris-b02068224/
