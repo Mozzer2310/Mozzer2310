@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Mozzer2310 - Sam Morris
-- 🏢 I'm currently a Junior Software Developer at bet365
-- 🌱 I will continue my Artificial MEng at The University of Manchester in September 2024
+- 🌱 Final Year MEng Artificial Intelligence Student at The University of Manchester
 - 📫 How to reach me: [https://www.linkedin.com/in/samuel-morris-b02068224/](https://www.linkedin.com/in/sam-morris-b02068224/)
